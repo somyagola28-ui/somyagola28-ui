@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Somya Gola
 
-<!--
-**somyagola28-ui/somyagola28-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | 📊 Data Science Learner
 
-Here are some ideas to get you started:
+### 💡 About Me
+- 🌱 Currently learning Python and Data Science.
+- 📈 Interested in Data Analytics, Data Visualization, and Business Insights.
+- 💻 Working with Python, SQL, Microsoft Excel, and Power BI.
+- 🔍 Enjoy exploring datasets and identifying meaningful patterns.
+- 🚀 Building hands-on projects to strengthen my analytical and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+🐍 Python | 🗄️ SQL | 📊 Excel | 📈 Power BI
+
+### 🎯 My Goal
+To transform raw data into actionable insights and continuously grow as a Data Analyst.
+
+### 🤝 Let's Connect
+Always open to learning, collaboration, and new opportunities!
